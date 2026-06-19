@@ -1,0 +1,11 @@
+engine_temp,brake_wear,battery_health,tire_health,mileage,risk
+75,20,95,90,15000,Low
+85,30,90,85,25000,Low
+95,45,80,75,50000,Medium
+105,70,70,65,85000,High
+110,80,60,55,100000,High
+90,40,85,80,40000,Medium
+100,65,75,70,70000,High
+80,25,92,88,20000,Low
+98,55,78,72,60000,Medium
+108,75,65,60,90000,High
